@@ -1,6 +1,6 @@
-# 👋 Hi! Welcome to EBZ
+# 👋 Hi! Welcome,
 
-I'm Ebrian, a skilled and motivated computer programmer and developer, knowledgeable in software engineering and data science. Prioritizing to make high-quality programs and organized codes. A good communicator with excellent problem-solving skills and passion for continuous learning.
+I'm EBZ, skilled and motivated computer programmer and developer, knowledgeable in software/data engineering and data science. Prioritizing to develop high-quality digital solutions. A good communicator and problem solver w/ passion for continuous learning.
 
 ## 🌐 Web Portfolio
 
